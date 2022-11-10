@@ -1,12 +1,12 @@
 {
   "tokenSetOrder": [
-    "Global/Components/Button",
-    "Global/Core",
-    "Deal/Components/Button",
-    "Deal/Core",
-    "Deal/Dark",
-    "Deal/Light",
-    "Veloe/Components/Button",
-    "Veloe/Core"
+    "global/components/button",
+    "global/core",
+    "deal/components/button",
+    "deal/core",
+    "deal/dark",
+    "deal/light",
+    "veloe/components/button",
+    "veloe/core"
   ]
 }

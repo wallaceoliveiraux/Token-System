@@ -3,14 +3,14 @@
     "id": "53b9dc5b1b604952c8ff2f5a9de81843787561c9",
     "name": "deal-dark",
     "selectedTokenSets": {
-      "Global/Core": "enabled",
-      "Deal/Core": "enabled",
-      "Deal/Dark": "enabled",
-      "Deal/Light": "disabled",
-      "Veloe/Core": "disabled",
-      "Global/Components/Button": "enabled",
-      "Deal/Components/Button": "enabled",
-      "Veloe/Components/Button": "disabled"
+      "global/components/button": "enabled",
+      "global/core": "enabled",
+      "deal/components/button": "enabled",
+      "deal/core": "enabled",
+      "deal/dark": "enabled",
+      "deal/light": "disabled",
+      "veloe/components/button": "disabled",
+      "veloe/core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -18,14 +18,14 @@
     "id": "62f2f001233846970b07497ce3c6f3d7300f3a6a",
     "name": "deal-light",
     "selectedTokenSets": {
-      "Global/Core": "enabled",
-      "Deal/Core": "enabled",
-      "Deal/Dark": "disabled",
-      "Deal/Light": "enabled",
-      "Veloe/Core": "disabled",
-      "Global/Components/Button": "enabled",
-      "Deal/Components/Button": "enabled",
-      "Veloe/Components/Button": "disabled"
+      "global/components/button": "enabled",
+      "global/core": "enabled",
+      "deal/components/button": "enabled",
+      "deal/core": "enabled",
+      "deal/dark": "disabled",
+      "deal/light": "enabled",
+      "veloe/components/button": "disabled",
+      "veloe/core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -33,14 +33,14 @@
     "id": "40278f35dc2d3c336fd4d22489910f0068d9c96f",
     "name": "veloe",
     "selectedTokenSets": {
-      "Global/Core": "enabled",
-      "Deal/Core": "disabled",
-      "Deal/Dark": "disabled",
-      "Deal/Light": "disabled",
-      "Veloe/Core": "enabled",
-      "Global/Components/Button": "enabled",
-      "Deal/Components/Button": "disabled",
-      "Veloe/Components/Button": "enabled"
+      "global/components/button": "enabled",
+      "global/core": "enabled",
+      "deal/components/button": "disabled",
+      "deal/core": "disabled",
+      "deal/dark": "disabled",
+      "deal/light": "disabled",
+      "veloe/components/button": "enabled",
+      "veloe/core": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -48,14 +48,14 @@
     "id": "6d8b163064ad2087b47d540ca05af31380a15a41",
     "name": "whitelabel",
     "selectedTokenSets": {
-      "Global/Core": "enabled",
-      "Deal/Core": "disabled",
-      "Deal/Dark": "disabled",
-      "Deal/Light": "disabled",
-      "Veloe/Core": "disabled",
-      "Global/Components/Button": "enabled",
-      "Deal/Components/Button": "disabled",
-      "Veloe/Components/Button": "disabled"
+      "global/components/button": "enabled",
+      "global/core": "enabled",
+      "deal/components/button": "disabled",
+      "deal/core": "disabled",
+      "deal/dark": "disabled",
+      "deal/light": "disabled",
+      "veloe/components/button": "disabled",
+      "veloe/core": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.lightest": "S:ea4983ab30e7fe9c827ecfdb8f1e21d5aaa13d8f,",
