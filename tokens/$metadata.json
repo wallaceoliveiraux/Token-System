@@ -1,14 +1,14 @@
 {
   "tokenSetOrder": [
-    "global/components/alert",
-    "global/components/badge",
-    "global/components/button",
+    "global/organisms/alert",
+    "global/molecules/badge",
+    "global/molecules/button",
     "global/core",
-    "deal/components/button",
+    "deal/molecules/button",
     "deal/core",
     "deal/dark",
     "deal/light",
-    "veloe/components/button",
+    "veloe/molecules/button",
     "veloe/core"
   ]
 }

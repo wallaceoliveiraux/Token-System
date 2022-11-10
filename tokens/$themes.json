@@ -3,16 +3,16 @@
     "id": "53b9dc5b1b604952c8ff2f5a9de81843787561c9",
     "name": "deal-dark",
     "selectedTokenSets": {
-      "global/components/button": "enabled",
       "global/core": "enabled",
-      "deal/components/button": "enabled",
       "deal/core": "enabled",
       "deal/dark": "enabled",
       "deal/light": "disabled",
-      "veloe/components/button": "disabled",
       "veloe/core": "disabled",
-      "global/components/badge": "disabled",
-      "global/components/alert": "disabled"
+      "global/organisms/alert": "disabled",
+      "global/molecules/badge": "disabled",
+      "global/molecules/button": "enabled",
+      "deal/molecules/button": "enabled",
+      "veloe/molecules/button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -20,16 +20,16 @@
     "id": "62f2f001233846970b07497ce3c6f3d7300f3a6a",
     "name": "deal-light",
     "selectedTokenSets": {
-      "global/components/button": "enabled",
       "global/core": "enabled",
-      "deal/components/button": "enabled",
       "deal/core": "enabled",
       "deal/dark": "disabled",
       "deal/light": "enabled",
-      "veloe/components/button": "disabled",
       "veloe/core": "disabled",
-      "global/components/badge": "disabled",
-      "global/components/alert": "disabled"
+      "global/organisms/alert": "disabled",
+      "global/molecules/badge": "disabled",
+      "global/molecules/button": "enabled",
+      "deal/molecules/button": "enabled",
+      "veloe/molecules/button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,16 +37,16 @@
     "id": "40278f35dc2d3c336fd4d22489910f0068d9c96f",
     "name": "veloe",
     "selectedTokenSets": {
-      "global/components/button": "enabled",
       "global/core": "enabled",
-      "deal/components/button": "disabled",
       "deal/core": "disabled",
       "deal/dark": "disabled",
       "deal/light": "disabled",
-      "veloe/components/button": "enabled",
       "veloe/core": "enabled",
-      "global/components/badge": "disabled",
-      "global/components/alert": "disabled"
+      "global/organisms/alert": "disabled",
+      "global/molecules/badge": "disabled",
+      "global/molecules/button": "enabled",
+      "deal/molecules/button": "disabled",
+      "veloe/molecules/button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -54,16 +54,16 @@
     "id": "6d8b163064ad2087b47d540ca05af31380a15a41",
     "name": "whitelabel",
     "selectedTokenSets": {
-      "global/components/button": "enabled",
       "global/core": "enabled",
-      "deal/components/button": "disabled",
       "deal/core": "disabled",
       "deal/dark": "disabled",
       "deal/light": "disabled",
-      "veloe/components/button": "disabled",
       "veloe/core": "disabled",
-      "global/components/badge": "disabled",
-      "global/components/alert": "disabled"
+      "global/organisms/alert": "disabled",
+      "global/molecules/badge": "disabled",
+      "global/molecules/button": "enabled",
+      "deal/molecules/button": "disabled",
+      "veloe/molecules/button": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.lightest": "S:ea4983ab30e7fe9c827ecfdb8f1e21d5aaa13d8f,",
