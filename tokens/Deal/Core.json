@@ -1,0 +1,14 @@
+{
+  "fontFamilyHeading": {
+    "value": "Rubik",
+    "type": "fontFamilies"
+  },
+  "fontFamilyText": {
+    "value": "Rubik",
+    "type": "fontFamilies"
+  },
+  "fontFamilyCode": {
+    "value": "Source Code Pro",
+    "type": "fontFamilies"
+  }
+}

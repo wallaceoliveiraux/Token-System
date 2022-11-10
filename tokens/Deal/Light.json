@@ -1,0 +1,62 @@
+{
+  "color": {
+    "brand": {
+      "lightest": {
+        "value": "hsla({base.color.brand.h}, {base.color.brand.s}, {base.color.light.lightest})",
+        "type": "color"
+      },
+      "lighter": {
+        "value": "hsla({base.color.brand.h}, {base.color.brand.s}, {base.color.light.lighter})",
+        "type": "color"
+      },
+      "light": {
+        "value": "hsla({base.color.brand.h}, {base.color.brand.s}, {base.color.light.light})",
+        "type": "color"
+      },
+      "base": {
+        "value": "hsla({base.color.brand.h}, {base.color.brand.s}, {base.color.light.base})",
+        "type": "color"
+      },
+      "dark": {
+        "value": "hsla({base.color.brand.h}, {base.color.brand.s}, {base.color.light.dark})",
+        "type": "color"
+      },
+      "darker": {
+        "value": "hsla({base.color.brand.h}, {base.color.brand.s}, {base.color.light.darker})",
+        "type": "color"
+      },
+      "darkest": {
+        "value": "hsla({base.color.brand.h}, {base.color.brand.s}, {base.color.light.darkest})",
+        "type": "color"
+      }
+    },
+    "base": {
+      "background": {
+        "value": "#F0F4F2",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#F9FEFB",
+        "type": "color"
+      },
+      "onBase": {
+        "value": "#08080B",
+        "type": "color"
+      }
+    }
+  },
+  "base": {
+    "color": {
+      "brand": {
+        "h": {
+          "value": "94",
+          "type": "other"
+        },
+        "s": {
+          "value": "77%",
+          "type": "other"
+        }
+      }
+    }
+  }
+}

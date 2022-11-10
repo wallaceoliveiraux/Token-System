@@ -1,0 +1,54 @@
+{
+  "color": {
+    "base": {
+      "background": {
+        "value": "#24206B",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "onBase": {
+        "value": "#111",
+        "type": "color"
+      }
+    }
+  },
+  "fontFamilyHeading": {
+    "value": "Poppins",
+    "type": "fontFamilies"
+  },
+  "base": {
+    "color": {
+      "brand": {
+        "h": {
+          "value": "320",
+          "type": "other"
+        },
+        "s": {
+          "value": "100%",
+          "type": "other"
+        }
+      }
+    }
+  },
+  "mobile": {
+    "button": {
+      "text": {
+        "value": {
+          "fontFamily": "{fontFamilyHeading}",
+          "fontWeight": "{fontWeight.semibold}",
+          "lineHeight": "{lineHeight.2xl}",
+          "fontSize": "{fontSize.xs}",
+          "letterSpacing": "{letterSpacing.none}",
+          "paragraphSpacing": "{paragraphSpacing.sm}",
+          "paragraphIndent": "{paragraphIdent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.uppercase}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
