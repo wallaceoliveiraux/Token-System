@@ -11,7 +11,8 @@
       "deal/light": "disabled",
       "veloe/components/button": "disabled",
       "veloe/core": "disabled",
-      "global/components/badge": "disabled"
+      "global/components/badge": "disabled",
+      "global/components/alert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -27,7 +28,8 @@
       "deal/light": "enabled",
       "veloe/components/button": "disabled",
       "veloe/core": "disabled",
-      "global/components/badge": "disabled"
+      "global/components/badge": "disabled",
+      "global/components/alert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -43,7 +45,8 @@
       "deal/light": "disabled",
       "veloe/components/button": "enabled",
       "veloe/core": "enabled",
-      "global/components/badge": "disabled"
+      "global/components/badge": "disabled",
+      "global/components/alert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,7 +62,8 @@
       "deal/light": "disabled",
       "veloe/components/button": "disabled",
       "veloe/core": "disabled",
-      "global/components/badge": "disabled"
+      "global/components/badge": "disabled",
+      "global/components/alert": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.lightest": "S:ea4983ab30e7fe9c827ecfdb8f1e21d5aaa13d8f,",

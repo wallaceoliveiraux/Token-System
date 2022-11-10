@@ -426,6 +426,10 @@
     "auto": {
       "value": "auto",
       "type": "spacing"
+    },
+    "none": {
+      "value": "0",
+      "type": "spacing"
     }
   },
   "borderRadius": {
