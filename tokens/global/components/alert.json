@@ -10,9 +10,34 @@
         },
         "type": "composition"
       },
+      "negative": {
+        "value": {
+          "border": "{color.negative.base}",
+          "borderWidth": "{borderWidth.md}",
+          "height": "{size.lg}",
+          "width": "{size.lg}"
+        },
+        "type": "composition"
+      },
+      "warning": {
+        "value": {
+          "height": "{size.lg}",
+          "width": "{size.lg}",
+          "fill": "{color.warning.base}"
+        },
+        "type": "composition"
+      },
+      "info": {
+        "value": {
+          "height": "{size.lg}",
+          "width": "{size.lg}",
+          "fill": "{color.info.base}"
+        },
+        "type": "composition"
+      },
       "close": {
         "value": {
-          "fill": "{color.brand.light}",
+          "fill": "{color.grey.lighter}",
           "height": "{size.md}",
           "width": "{size.md}"
         },
@@ -22,7 +47,7 @@
     "text": {
       "title": {
         "value": {
-          "fill": "{color.neutral.white}",
+          "fill": "{color.base.onBase}",
           "typography": "{mobile.subtitle.sm}"
         },
         "type": "composition"
@@ -30,25 +55,28 @@
       "description": {
         "value": {
           "typography": "{mobile.small.md}",
-          "fill": "{color.neutral.white}"
+          "fill": "{color.base.onBase}",
+          "opacity": "{opacity.60}"
         },
         "type": "composition"
       }
     },
     "content": {
-      "text": {
+      "body": {
         "value": {
-          "itemSpacing": "{spacing.auto}"
+          "fill": "{color.base.surface}",
+          "verticalPadding": "{spacing.sm}",
+          "horizontalPadding": "{spacing.md}",
+          "borderRadius": "{borderRadius.md}",
+          "itemSpacing": "{spacing.md}",
+          "border": "{color.grey.lightest}",
+          "borderWidth": "{borderWidth.sm}"
         },
         "type": "composition"
       },
-      "body": {
+      "text": {
         "value": {
-          "fill": "{color.brand.darker}",
-          "verticalPadding": "{spacing.md}",
-          "horizontalPadding": "{spacing.lg}",
-          "borderRadius": "{borderRadius.md}",
-          "itemSpacing": "{spacing.md}"
+          "itemSpacing": "{spacing.none}"
         },
         "type": "composition"
       }
