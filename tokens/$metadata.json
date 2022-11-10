@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
+    "global/components/badge",
     "global/components/button",
     "global/core",
     "deal/components/button",

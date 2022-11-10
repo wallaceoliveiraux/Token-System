@@ -1,0 +1,89 @@
+{
+  "badge": {
+    "filled": {
+      "number": {
+        "value": {
+          "fill": "{color.brand.base}",
+          "horizontalPadding": "{spacing.xs}",
+          "verticalPadding": "{spacing.2xs}",
+          "borderRadius": "{borderRadius.pill}"
+        },
+        "type": "composition"
+      },
+      "word": {
+        "value": {
+          "fill": "{color.brand.base}",
+          "horizontalPadding": "{spacing.xs}",
+          "verticalPadding": "{spacing.2xs}",
+          "borderRadius": "{borderRadius.md}"
+        },
+        "type": "composition"
+      },
+      "text": {
+        "default": {
+          "value": {
+            "fill": "{color.neutral.white}",
+            "typography": "{mobile.small.md}"
+          },
+          "type": "composition"
+        }
+      }
+    },
+    "legend": {
+      "fill": {
+        "value": {
+          "verticalPadding": "{spacing.2xs}",
+          "itemSpacing": "{spacing.xs}"
+        },
+        "type": "composition"
+      },
+      "text": {
+        "value": {
+          "fill": "{color.base.onBase}",
+          "typography": "{mobile.small.md}"
+        },
+        "type": "composition"
+      },
+      "square": {
+        "value": {
+          "fill": "{color.brand.base}",
+          "borderRadius": "{borderRadius.sm}",
+          "height": "{size.sm}",
+          "width": "{size.sm}"
+        },
+        "type": "composition"
+      }
+    },
+    "outline": {
+      "number": {
+        "value": {
+          "horizontalPadding": "{spacing.xs}",
+          "verticalPadding": "{spacing.2xs}",
+          "borderRadius": "{borderRadius.pill}",
+          "border": "{color.brand.base}",
+          "borderWidth": "{borderWidth.sm}"
+        },
+        "type": "composition"
+      },
+      "word": {
+        "value": {
+          "horizontalPadding": "{spacing.xs}",
+          "verticalPadding": "{spacing.2xs}",
+          "borderRadius": "{borderRadius.md}",
+          "border": "{color.brand.base}",
+          "borderWidth": "{borderWidth.sm}"
+        },
+        "type": "composition"
+      },
+      "text": {
+        "default": {
+          "value": {
+            "fill": "{color.base.onBase}",
+            "typography": "{mobile.small.md}"
+          },
+          "type": "composition"
+        }
+      }
+    }
+  }
+}

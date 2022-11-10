@@ -10,7 +10,8 @@
       "deal/dark": "enabled",
       "deal/light": "disabled",
       "veloe/components/button": "disabled",
-      "veloe/core": "disabled"
+      "veloe/core": "disabled",
+      "global/components/badge": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,7 +26,8 @@
       "deal/dark": "disabled",
       "deal/light": "enabled",
       "veloe/components/button": "disabled",
-      "veloe/core": "disabled"
+      "veloe/core": "disabled",
+      "global/components/badge": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -40,7 +42,8 @@
       "deal/dark": "disabled",
       "deal/light": "disabled",
       "veloe/components/button": "enabled",
-      "veloe/core": "enabled"
+      "veloe/core": "enabled",
+      "global/components/badge": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -55,7 +58,8 @@
       "deal/dark": "disabled",
       "deal/light": "disabled",
       "veloe/components/button": "disabled",
-      "veloe/core": "disabled"
+      "veloe/core": "disabled",
+      "global/components/badge": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.lightest": "S:ea4983ab30e7fe9c827ecfdb8f1e21d5aaa13d8f,",
