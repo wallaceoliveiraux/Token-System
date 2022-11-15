@@ -48,13 +48,13 @@
       "title": {
         "value": {
           "fill": "{color.base.onBase}",
-          "typography": "{mobile.subtitle.sm}"
+          "typography": "{typography.subtitle.sm}"
         },
         "type": "composition"
       },
       "description": {
         "value": {
-          "typography": "{mobile.small.md}",
+          "typography": "{typography.small.md}",
           "fill": "{color.base.onBase}",
           "opacity": "{opacity.60}"
         },

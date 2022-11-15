@@ -23,7 +23,7 @@
         "default": {
           "value": {
             "fill": "{color.neutral.white}",
-            "typography": "{mobile.small.md}"
+            "typography": "{typography.small.md}"
           },
           "type": "composition"
         }
@@ -40,7 +40,7 @@
       "text": {
         "value": {
           "fill": "{color.base.onBase}",
-          "typography": "{mobile.small.md}"
+          "typography": "{typography.small.md}"
         },
         "type": "composition"
       },
@@ -79,7 +79,7 @@
         "default": {
           "value": {
             "fill": "{color.base.onBase}",
-            "typography": "{mobile.small.md}"
+            "typography": "{typography.small.md}"
           },
           "type": "composition"
         }

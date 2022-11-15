@@ -116,13 +116,11 @@
       "mobile.heading.title": "S:84aefd7dd9d4ce2f34aad257941b857a81477a30,",
       "mobile.subtitle.lg": "S:202cb55e62aac08d0f3821bb7d4907bd938c0daa,",
       "mobile.subtitle.sm": "S:80f20073bdcbb420590e5b357eed9ac124984d42,",
-      "mobile.body.text": "S:7d784542d033a39e034e1ac6eb49f7722c8cbba7,",
       "mobile.small.md": "S:5e05a2c36ac3d5ae55f7e040bc2bbd8904f75cc7,",
       "mobile.caption.lg": "S:4e63142a37fba1a800aeca64062c6cd15be45f9e,",
       "mobile.caption.sm": "S:eb2688209c19f0237e5836870a52656c772f7cc1,",
       "mobile.link.sm": "S:e358108237d2d01a135df3a1a65ab86f709763ce,",
       "mobile.link.md": "S:64047f9751c5fb34d2f6b5340fbefd21f6dea495,",
-      "mobile.button.text": "S:2a8a8ce8a564bc8f42165c0570682395e960c0d7,",
       "mobile.code.text": "S:634520a5be495805a41a475e9e481edf49a91025,",
       "color.grey.lightest": "S:8d16f8fa920bff4bbab77070ae5a9c7e46aba288,",
       "color.grey.lighter": "S:421167453ae04a0f368e1dc6216387d5d4bac8cd,",
@@ -132,7 +130,9 @@
       "color.grey.darker": "S:d35b1af500d2300468ecb46ed32afe401a344edd,",
       "color.grey.darkest": "S:755be7f0755bdae3f3a8202ba825e9648fc57619,",
       "button.shadow.sm": "S:7596a9d83fcaf0dea5af88c98636b308894598a6,",
-      "button.shadow.md": "S:83e046e07fcdced9d51b6c57545c708c60956eb7,"
+      "button.shadow.md": "S:83e046e07fcdced9d51b6c57545c708c60956eb7,",
+      "mobile.body.sm": "S:7d784542d033a39e034e1ac6eb49f7722c8cbba7,",
+      "mobile.body.md": "S:2a8a8ce8a564bc8f42165c0570682395e960c0d7,"
     }
   }
 ]

@@ -37,7 +37,7 @@
         "text": {
           "value": {
             "fill": "{color.grey.darkest}",
-            "typography": "{mobile.button.text}"
+            "typography": "{typography.body.md}"
           },
           "type": "composition"
         },
@@ -50,7 +50,7 @@
         "textDisabled": {
           "value": {
             "fill": "{color.grey.dark}",
-            "typography": "{mobile.button.text}"
+            "typography": "{typography.body.md}"
           },
           "type": "composition"
         },
