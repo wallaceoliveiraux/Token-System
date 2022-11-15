@@ -84,6 +84,15 @@
           "type": "composition"
         }
       }
+    },
+    "indicator": {
+      "value": {
+        "height": "{size.xs}",
+        "width": "{size.xs}",
+        "fill": "{color.brand.base}",
+        "borderRadius": "{borderRadius.md}"
+      },
+      "type": "composition"
     }
   }
 }
