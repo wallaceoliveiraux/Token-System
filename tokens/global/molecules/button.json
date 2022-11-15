@@ -8,7 +8,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.default}"
+            "fill": "{button.color.background.primary.default}"
           },
           "type": "composition"
         },
@@ -18,7 +18,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.hover}"
+            "fill": "{button.color.background.primary.hover}"
           },
           "type": "composition"
         },
@@ -28,7 +28,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.focus}",
+            "fill": "{button.color.background.primary.focus}",
             "boxShadow": "{button.shadow.sm}"
           },
           "type": "composition"
@@ -39,7 +39,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.active}"
+            "fill": "{button.color.background.primary.active}"
           },
           "type": "composition"
         },
@@ -49,7 +49,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.disabled}"
+            "fill": "{button.color.background.primary.disabled}"
           },
           "type": "composition"
         }
@@ -61,7 +61,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.default}"
+            "fill": "{button.color.background.primary.default}"
           },
           "type": "composition"
         },
@@ -71,7 +71,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.hover}"
+            "fill": "{button.color.background.primary.hover}"
           },
           "type": "composition"
         },
@@ -81,7 +81,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.focus}",
+            "fill": "{button.color.background.primary.focus}",
             "boxShadow": "{button.shadow.sm}"
           },
           "type": "composition"
@@ -92,7 +92,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.active}"
+            "fill": "{button.color.background.primary.active}"
           },
           "type": "composition"
         },
@@ -102,7 +102,7 @@
             "horizontalPadding": "{spacing.md}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.disabled}"
+            "fill": "{button.color.background.primary.disabled}"
           },
           "type": "composition"
         }
@@ -114,7 +114,7 @@
             "horizontalPadding": "{spacing.sm}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.default}"
+            "fill": "{button.color.background.primary.default}"
           },
           "type": "composition"
         },
@@ -124,7 +124,7 @@
             "horizontalPadding": "{spacing.sm}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.hover}"
+            "fill": "{button.color.background.primary.hover}"
           },
           "type": "composition"
         },
@@ -134,7 +134,7 @@
             "horizontalPadding": "{spacing.sm}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.focus}",
+            "fill": "{button.color.background.primary.focus}",
             "boxShadow": "{button.shadow.sm}"
           },
           "type": "composition"
@@ -145,7 +145,7 @@
             "horizontalPadding": "{spacing.sm}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.active}"
+            "fill": "{button.color.background.primary.active}"
           },
           "type": "composition"
         },
@@ -155,7 +155,7 @@
             "horizontalPadding": "{spacing.sm}",
             "borderRadius": "{borderRadius.md}",
             "itemSpacing": "{spacing.sm}",
-            "fill": "{button.color.background.filled.disabled}"
+            "fill": "{button.color.background.primary.disabled}"
           },
           "type": "composition"
         }
@@ -163,14 +163,14 @@
       "text": {
         "default": {
           "value": {
-            "fill": "{button.color.text.filled.default}",
+            "fill": "{button.color.text.primary.default}",
             "typography": "{mobile.button.text}"
           },
           "type": "composition"
         },
         "disabled": {
           "value": {
-            "fill": "{button.color.text.filled.disabled}",
+            "fill": "{button.color.text.primary.disabled}",
             "typography": "{mobile.button.text}"
           },
           "type": "composition"
@@ -179,26 +179,26 @@
       "icon": {
         "default": {
           "value": {
-            "fill": "{button.color.icon.filled.default}"
+            "fill": "{button.color.icon.primary.default}"
           },
           "type": "composition"
         },
         "disabled": {
           "value": {
-            "fill": "{button.color.icon.filled.disabled}"
+            "fill": "{button.color.icon.primary.disabled}"
           },
           "type": "composition"
         },
         "border": {
           "value": {
-            "border": "{button.color.icon.filled.default}",
+            "border": "{button.color.icon.primary.default}",
             "borderWidth": "{borderWidth.lg}"
           },
           "type": "composition"
         },
         "dropdown": {
           "value": {
-            "border": "{button.color.icon.filled.dropdown}",
+            "border": "{button.color.icon.primary.dropdown}",
             "borderWidth": "{borderWidth.lg}"
           },
           "type": "composition"
@@ -631,7 +631,7 @@
     },
     "color": {
       "background": {
-        "filled": {
+        "primary": {
           "default": {
             "value": "{color.brand.base}",
             "type": "color"
@@ -655,7 +655,7 @@
         }
       },
       "text": {
-        "filled": {
+        "primary": {
           "default": {
             "value": "{color.neutral.white}",
             "type": "color"
@@ -667,7 +667,7 @@
         }
       },
       "icon": {
-        "filled": {
+        "primary": {
           "default": {
             "value": "{color.neutral.white}",
             "type": "color"
